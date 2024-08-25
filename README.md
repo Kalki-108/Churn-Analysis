@@ -1,1 +1,1 @@
-# Churn-Analysis
+This repository contains the code, data, SQL queries, PowerBI dashboard and other resources used and generated during the comprehensive churn analysis project. The project focuses on analyzing customer data from a telecom firm to understand churn patterns, identify key drivers, and develop a predictive model to identify at-risk customers.
